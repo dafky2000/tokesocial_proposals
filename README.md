@@ -12,7 +12,7 @@ The content of this repository contains the formalization of the specification f
 
 ## TDP: TokeSocial Specifications Proposals
 
-A repository that serves as a source of technical information about the features and activities involved with TokeSocial
+A repository that serves as a source of technical information about the features and activities involved with TokeSocial.
 
 ### Current TDPs
 
