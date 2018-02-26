@@ -10,14 +10,13 @@ The content of this repository contains the formalization of the specification f
 * You can [submit a new proposal](https://github.com/dafky2000/tokesocial_proposals/issues/new).
 * You can also read about the [TokeSocial District Proposal Format](tdp/0000.md) and submit a formal request for it.
 
-## TDP: Decentraland Specifications Proposals
+## TDP: TokeSocial Specifications Proposals
 
-A repository that serves as a source of technical information about the
-protocols involved within Decentraland.
+A repository that serves as a source of technical information about the features and activities involved with TokeSocial
 
 ### Current TDPs
 
-* [TDP0000](tdp/0000.md): The TokeSocial District Proposal Format
+* [TDP0000](tdp/0000.md): TokeSocial District Proposal Format
 
 ### Wishlist
 
