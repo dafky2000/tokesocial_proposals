@@ -11,7 +11,7 @@ The content of this repository contains the formalization of the specification f
 
 ## TDP: TokeSocial District Proposals
 
-A repository that serves as a source of technical information about the protocols involved within Decentraland.
+A repository that serves as a source of technical information about the features and activities involved with TokeSocial.
 
 ### Current TDPs
 
