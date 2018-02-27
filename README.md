@@ -8,6 +8,7 @@ The content of this repository contains the formalization of the specification f
 
 * To start with, you can browse through [proposals submitted by other users](https://github.com/dafky2000/tokesocial_proposals/issues).
 * You can [submit a new proposal](https://github.com/dafky2000/tokesocial_proposals/issues/new).
+* You can also read about the [TokeSocial District Proposal Format](tdp/0000.md) and submit a formal request for it.
 
 ## TDP: TokeSocial District Proposals
 
@@ -15,11 +16,10 @@ A repository that serves as a source of technical information about the features
 
 ### Current TDPs
 
-None
+* [TDP0000](tdp/0000.md): TokeSocial District Proposal Format
 
 ### Wishlist
 
-* TDP0000: TokeSocial District Proposal Format
 * TDP0010: Temporary voting mechanism proposal
 * TDP0011: Final voting mechanism proposal
 * TDP0020: Membership/share tokenization proposal
