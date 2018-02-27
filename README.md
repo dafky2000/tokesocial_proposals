@@ -17,12 +17,12 @@ A repository that serves as a source of technical information about the features
 ### Current TDPs
 
 * [TDP0000](tdp/0000.md): TokeSocial District Proposal Format
+* [TDP0020](tdp/0020.md): Membership Share Representation
 
 ### Wishlist
 
 * TDP0010: Temporary voting mechanism proposal
 * TDP0011: Final voting mechanism proposal
-* TDP0020: Membership/share tokenization proposal
 * TDP0030: Membership/share valuation proposal
 * TDP0040: Initial launch proposal, MVP
 * TDP0041: Assignment of work
