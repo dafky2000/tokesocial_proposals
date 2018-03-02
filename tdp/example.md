@@ -7,6 +7,18 @@
   Created: 2018-02-26
 ```
 
+1. [TLDR](#tldr)
+1. [Abstract](#abstract)
+1. [Copyright/public domain](#copyright-public-domain)
+1. [Specification](#specification)
+1. [Motivation](#motivation)
+1. [Rationale](#rationale)
+1. [Backwards Compatibility](#backwards-compatibility)
+1. [Reference Implementation](#reference-implementation)
+
+# TLDR
+"Too long didn't read" - A short digestible description of the entire document and the key points.
+
 # Abstract
 A short (~200 word) description of the technical issue being addressed.
 
