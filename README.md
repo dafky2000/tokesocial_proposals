@@ -22,7 +22,5 @@ A repository that serves as a source of technical information about the features
 
 * TDP0010: Temporary voting mechanism proposal
 * TDP0011: Final voting mechanism proposal
-* TDP0020: Membership/share tokenization proposal
-* TDP0030: Membership/share valuation proposal
-* TDP0040: Initial launch proposal, MVP
-* TDP0041: Assignment of work
+* TDP0020: Voting & governence proposal
+* TDP0030: Initial launch proposal, MVP
