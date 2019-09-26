@@ -17,10 +17,10 @@ A repository that serves as a source of technical information about the features
 ### Current TDPs
 
 * [TDP0000](tdp/0000.md): TokeSocial District Proposal Format
+* [TDP0010](tdp/0010.md): Temporary Voting Mechanism
 
 ### Wishlist
 
-* TDP0010: Temporary voting mechanism proposal
 * TDP0011: Final voting mechanism proposal
 * TDP0020: Voting & governence proposal
 * TDP0030: Initial launch proposal, MVP
